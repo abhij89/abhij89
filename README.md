@@ -14,12 +14,12 @@ Engineering Lead at [99 Robots](https://github.com/99robots), a product studio w
 ## Stack
 
 ```
-Languages      PHP  JavaScript / TypeScript  Python  SQL
+Languages      PHP  JavaScript / TypeScript  SQL
 Front-End      React  Next.js  Vue  Remix  Node.js  Tailwind
 Back-End       Symfony  Laravel  Yii  WordPress  Django
 AI / LLMs      OpenAI  Claude  Perplexity  Ollama (Qwen2.5)  Dify
 Databases      MySQL  PostgreSQL  Elasticsearch  Redis
-Cloud          AWS  GCP  Docker  CI/CD  Linux
+Cloud          AWS  GCP  Docker  Linux
 Automation     n8n  Web Scraping  Workflow Pipelines
 ```
 
